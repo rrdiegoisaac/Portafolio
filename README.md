@@ -1,4 +1,4 @@
-# Portafolio Diego Isaac Riquelme Ramírez
+# Portafolio Diego Isaac Riquelme Ramírez (EN PROGRESO)
 
 #### Contacto: 
 - rrdiegoisaac@gmail.com
