@@ -9,7 +9,7 @@
 ## Educación
 - Ingeniería Comercial (2018-2023)						       		
 - Tesis: LIBRE COMERCIO Y PROTECCIONISMO: TRAYECTORIA COMERCIAL Y RECUPERACIÓN ECONÓMICA EN EL CONTEXTO DEL COVID-19, EN CHILE Y ARGENTINA	        		
-- Conocimientos en econometría, data science, big data
+- Conocimientos en econometría, data science, big data, marketing, economía, finanzas y adminitración
 
 ## Experiencia
    **Consumir API para automatización**
