@@ -36,23 +36,27 @@ significativos y tendencias ocultas en los datos.
 ## Proyectos
 
 ### Informe de ventas
-![paralellchart](assets/img/ejemploventas/cluster.png)
 
-![paralellchart](assets/img/ejemploventas/ventaspormes.png)
+- Descripción:
+En este proyecto, he explorado la base de datos de Adventure Works, una simulación de base de datos de ventas y operaciones comerciales, utilizando herramientas de visualización de datos. A través de la creación de diversos gráficos y visualizaciones, he desglosado patrones, tendencias y relaciones clave.
+  
+![cluster](assets/img/ejemploventas/cluster.png)
 
-![paralellchart](assets/img/ejemploventas/ventasporpais.png)
+![ventaspormes](assets/img/ejemploventas/ventaspormes.png)
 
-![paralellchart](assets/img/ejemploventas/margenporpais.png)
+![ventasporpais](assets/img/ejemploventas/ventasporpais.png)
+
+![margenporpais](assets/img/ejemploventas/margenporpais.png)
+
+
+---
 
 
 ### Análisis de encuesta ambiental
 
-![banner](assets/img/chilesurvey/banner.jpg)
-
-
 
 - Descripción:
-Desarrollé un análisis de una encuesta realizada por el Ministerio del Medio Ambiente de Chile.
+Desarrollé un análisis de una encuesta realizada por el Ministerio del Medio Ambiente de Chile para conocer tendencias, preocupaciones y percepciones de la población respecto al medio ambiente.
 
 - Análisis:
 Los sentimientos generales de los ciudadanos de Chile son de desesperanza, pena y miedo.
