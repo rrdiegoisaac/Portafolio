@@ -36,7 +36,7 @@ significativos y tendencias ocultas en los datos.
 ## Proyectos
 ### Análisis de encuesta ambiental
 
-![banner](assets/img/banner.jpg)
+![banner](assets/img/chilesurvey/banner.jpg)
 
 
 
@@ -44,10 +44,10 @@ significativos y tendencias ocultas en los datos.
 Desarrollé un análisis de una encuesta realizada por el Ministerio del Medio Ambiente de Chile.
 
 - Análisis:
-![wordchart](assets/img/wordchart.png)
+![wordchart](assets/img/chilesurvey/wordchart.png)
 
 Los sentimientos generales de los ciudadanos de Chile son de desesperanza, pena y miedo.
 
-![paralellchart](assets/img/parallelchart.png)
+![paralellchart](assets/img/chilesurvey/paralellchart.png)
 
 Se realizó un análisis detallado de comportamiento de las personas, según su rango etario.
