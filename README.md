@@ -1,4 +1,8 @@
-# Data Scientist
+# Portafolio Diego Isaac Riquelme Ramírez
+
+#### Contacto: 
+- rrdiegoisaac@gmail.com
+- https://www.linkedin.com/in/rrdiegoisaac/
 
 #### Habilidades Técnicas: Python, SQL, R, Power BI, Tableau, AWS, API
 
@@ -31,14 +35,19 @@ significativos y tendencias ocultas en los datos.
 
 ## Proyectos
 ### Análisis de encuesta ambiental
+
 ![banner](assets/img/banner.jpg)
 
+
+
+- Descripción
 Desarrollé un análisis de una encuesta realizada por el Ministerio del Medio Ambiente de Chile.
 
-![wordchart](assets/img/13.png)
+- Análisis
+![wordchart](assets/img/wordchart.png)
 
 Los sentimientos generales de los ciudadanos de Chile son de desesperanza, pena y miedo.
 
-![paralellchart](assets/img/13.png)
+![paralellchart](assets/img/parallelchart.png)
 
 Se realizó un análisis detallado de comportamiento de las personas, según su rango etario.
