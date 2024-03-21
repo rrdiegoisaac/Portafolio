@@ -40,10 +40,10 @@ significativos y tendencias ocultas en los datos.
 
 
 
-- Descripción
+- Descripción:
 Desarrollé un análisis de una encuesta realizada por el Ministerio del Medio Ambiente de Chile.
 
-- Análisis
+- Análisis:
 ![wordchart](assets/img/wordchart.png)
 
 Los sentimientos generales de los ciudadanos de Chile son de desesperanza, pena y miedo.
