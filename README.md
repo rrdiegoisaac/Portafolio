@@ -72,3 +72,6 @@ Se realizó un análisis detallado de comportamiento de las personas, según su 
 
 
 
+## Más ejemplos de visualizaciones
+![bubble](assets/img/ejemplosvisualizaciones/test.gif)
+![world](assets/img/ejemplosvisualizaciones/test2.gif)
