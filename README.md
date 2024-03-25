@@ -4,7 +4,7 @@
 - rrdiegoisaac@gmail.com
 - https://www.linkedin.com/in/rrdiegoisaac/
 
-#### Habilidades Técnicas: Python, SQL, R, Power BI, Tableau, AWS, API
+#### Habilidades Técnicas: Python, SQL, R, Power BI, Tableau, Microsoft Office Suite, AWS, API
 
 ## Educación
 - Ingeniería Comercial (2018-2023)						       		
