@@ -7,9 +7,10 @@
 3. [Educación](#educación)
 4. [Experiencia](#experiencia)
 5. [Proyectos](#proyectos)
+    - [Ejemplos de visualizaciones](#ejemplos-de-visualizaciones)
     - [Informe de ventas](#informe-de-ventas)
     - [Análisis de encuesta ambiental](#análisis-de-encuesta-ambiental)
-    - [Más ejemplos de visualizaciones](#más-ejemplos-de-visualizaciones)
+    
 
 ---
 
@@ -47,6 +48,19 @@
 ### Análisis encuesta mediante Python
 - Realicé limpieza, análisis estadístico y visual a una encuesta, en la cual posteriormente apliqué Análisis Clúster y Análisis de Componentes Principales, con estos identifiqué patrones significativos y tendencias ocultas en los datos.
 
+## Ejemplos de visualizaciones
+
+https://github.com/rrdiegoisaac/Portafolio/assets/164385592/15d9d7ae-1013-4809-ae58-f7f2d052ef46
+
+https://github.com/rrdiegoisaac/Portafolio/assets/164385592/b7f7ce9b-079d-4dbd-8a23-3e4d5b11b5a9
+
+![bubble](assets/img/ejemplosvisualizaciones/test.gif)
+![world](assets/img/ejemplosvisualizaciones/test2.gif)
+![terrorism](assets/img/ejemplosvisualizaciones/ataquesterroristas.png)
+![correlacion1](assets/img/ejemplosvisualizaciones/mapacorrelacion.png)
+![correlacion2](assets/img/ejemplosvisualizaciones/correlacion.PNG)
+
+
 ## Proyectos
 
 ### Informe de ventas
@@ -73,13 +87,5 @@ Sentimientos generales de la población ante el cambio climático:
 
 ---
 
-## Más ejemplos de visualizaciones
-![bubble](assets/img/ejemplosvisualizaciones/test.gif)
-![world](assets/img/ejemplosvisualizaciones/test2.gif)
-![terrorism](assets/img/ejemplosvisualizaciones/ataquesterroristas.png)
-![correlacion1](assets/img/ejemplosvisualizaciones/mapacorrelacion.png)
-![correlacion2](assets/img/ejemplosvisualizaciones/correlacion.PNG)
 
-https://github.com/rrdiegoisaac/Portafolio/assets/164385592/b7f7ce9b-079d-4dbd-8a23-3e4d5b11b5a9
 
-[Link al repositorio](https://github.com/rrdiegoisaac/Portafolio)
