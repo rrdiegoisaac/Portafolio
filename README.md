@@ -50,9 +50,15 @@
 
 ## Ejemplos de visualizaciones
 
+![stackedbar](assets/img/ejemplosvisualizaciones/comparaciongdpsector.png)
+
 https://github.com/rrdiegoisaac/Portafolio/assets/164385592/15d9d7ae-1013-4809-ae58-f7f2d052ef46
 
 https://github.com/rrdiegoisaac/Portafolio/assets/164385592/b7f7ce9b-079d-4dbd-8a23-3e4d5b11b5a9
+
+https://github.com/rrdiegoisaac/Portafolio/assets/164385592/f7530c76-742e-4d81-a2c2-2faa9c13bb58
+
+
 
 ![bubble](assets/img/ejemplosvisualizaciones/test.gif)
 ![world](assets/img/ejemplosvisualizaciones/test2.gif)
