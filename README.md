@@ -30,7 +30,7 @@
 
 
 ## Educación
-- Ingeniería Comercial (2018-2023) Universidad Tecnológica Metropolitana
+- Ingeniería Comercial (2018-2022) Universidad Tecnológica Metropolitana
 - Tesis: LIBRE COMERCIO Y PROTECCIONISMO: TRAYECTORIA COMERCIAL Y RECUPERACIÓN ECONÓMICA EN EL CONTEXTO DEL COVID-19, EN CHILE Y ARGENTINA
 - Conocimientos en econometría, data science, big data, marketing, economía, finanzas y administración
 
